@@ -1,0 +1,4 @@
+/home/hedgefo9/CLionProjects/os_lab57/cmake-build-debug/CMakeFiles/node.dir
+/home/hedgefo9/CLionProjects/os_lab57/cmake-build-debug/CMakeFiles/os_lab57.dir
+/home/hedgefo9/CLionProjects/os_lab57/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hedgefo9/CLionProjects/os_lab57/cmake-build-debug/CMakeFiles/rebuild_cache.dir
